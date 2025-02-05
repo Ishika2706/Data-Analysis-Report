@@ -1,5 +1,5 @@
 # Data Analysis and Representation - Power BI Report
-## Attached Project : [Sales Analysis Report.pdf](file:///C:/Users/Dell/Desktop/Data%20Analysis%20PowerBI%20Report.pdf)
+## Attached Project : [Sales Analysis Report.pdf] (file:///C:/Users/Dell/Desktop/Data%20Analysis%20PowerBI%20Report.pdf)
 
 ## Overview
 This repository contains a Power BI report where I analyzed and visualized sales data across different countries. I sourced this dataset online and processed it to extract meaningful insights.
